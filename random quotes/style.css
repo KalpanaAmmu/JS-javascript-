@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(120, 58, 179);
+}
+
+h2 {
+  font-size: 2rem;
+  /* margin: 2rem; */
+  margin-left: 8rem;
+  color: white;
+}
+.btn {
+  padding: 1rem 1.5rem;
+  font-size: 1.4rem;
+  margin: 3rem 6rem;
+  border-radius: 3px-;
+}
+.btn:active {
+  background-color: cyan;
+  color: red;
+  outline: none;
+}
+.copy {
+  margin-left: 41rem;
+  margin-top: 3rem;
+  font-size: 2rem;
+  color: black;
+  font-weight: 700;
+}
+.span {
+  color: blanchedalmond;
+}
